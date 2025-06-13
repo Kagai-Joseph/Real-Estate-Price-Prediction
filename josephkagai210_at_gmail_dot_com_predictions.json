@@ -1,0 +1,257 @@
+[
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-11T11:45:14.528127",
+    "input_parameters": {
+      "longitude": -122.0,
+      "latitude": 37.8,
+      "housing_median_age": 41.0,
+      "total_rooms": 880.0,
+      "total_bedrooms": 129.0,
+      "population": 322.0,
+      "households": 126.0,
+      "median_income": 8.3252,
+      "ocean_proximity": "NEAR BAY"
+    },
+    "predicted_price": 399883.26,
+    "prediction_id": "josephkagai210@gmail.com_20250611_114514"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-11T00:07:05.712655",
+    "input_parameters": {
+      "longitude": -119.0,
+      "latitude": 34.5,
+      "housing_median_age": 41.0,
+      "total_rooms": 30.0,
+      "total_bedrooms": 124.0,
+      "population": 200.0,
+      "households": 100.0,
+      "median_income": 8.4,
+      "ocean_proximity": "NEAR BAY"
+    },
+    "predicted_price": 414113.23,
+    "prediction_id": "josephkagai210@gmail.com_20250611_000705"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:47:17.185386",
+    "input_parameters": {
+      "longitude": 32.0,
+      "latitude": 33.0,
+      "housing_median_age": 40.0,
+      "total_rooms": 800.0,
+      "total_bedrooms": 125.0,
+      "population": 300.0,
+      "households": 120.0,
+      "median_income": 8.7,
+      "ocean_proximity": "<1H OCEAN"
+    },
+    "predicted_price": 408543.24,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234717"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:46:34.055009",
+    "input_parameters": {
+      "longitude": 120.0,
+      "latitude": 35.0,
+      "housing_median_age": 40.0,
+      "total_rooms": 800.0,
+      "total_bedrooms": 120.0,
+      "population": 300.0,
+      "households": 120.0,
+      "median_income": 8.5,
+      "ocean_proximity": "NEAR OCEAN"
+    },
+    "predicted_price": 415884.24,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234634"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:45:35.927256",
+    "input_parameters": {
+      "longitude": 13.0,
+      "latitude": 14.0,
+      "housing_median_age": 31.0,
+      "total_rooms": 30.0,
+      "total_bedrooms": 20.0,
+      "population": 300.0,
+      "households": 100.0,
+      "median_income": 7.5,
+      "ocean_proximity": "NEAR OCEAN"
+    },
+    "predicted_price": 296793.05,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234535"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:44:31.232754",
+    "input_parameters": {
+      "longitude": 21.0,
+      "latitude": 21.0,
+      "housing_median_age": 21.0,
+      "total_rooms": 500.0,
+      "total_bedrooms": 100.0,
+      "population": 120.0,
+      "households": 100.0,
+      "median_income": 120.0,
+      "ocean_proximity": "INLAND"
+    },
+    "predicted_price": 412202.28,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234431"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:44:05.182419",
+    "input_parameters": {
+      "longitude": 30.0,
+      "latitude": 20.0,
+      "housing_median_age": 20.0,
+      "total_rooms": 30.0,
+      "total_bedrooms": 30.0,
+      "population": 31.0,
+      "households": 30.0,
+      "median_income": 8.5,
+      "ocean_proximity": "<1H OCEAN"
+    },
+    "predicted_price": 350482.17,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234405"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:43:38.406995",
+    "input_parameters": {
+      "longitude": 20.0,
+      "latitude": 20.0,
+      "housing_median_age": 20.0,
+      "total_rooms": 20.0,
+      "total_bedrooms": 20.0,
+      "population": 20.0,
+      "households": 20.0,
+      "median_income": 20.0,
+      "ocean_proximity": "NEAR BAY"
+    },
+    "predicted_price": 313925.2,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234338"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:43:02.066519",
+    "input_parameters": {
+      "longitude": 19.0,
+      "latitude": 19.0,
+      "housing_median_age": 19.0,
+      "total_rooms": 19.0,
+      "total_bedrooms": 19.0,
+      "population": 19.0,
+      "households": 19.0,
+      "median_income": 19.0,
+      "ocean_proximity": "NEAR BAY"
+    },
+    "predicted_price": 317445.2,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234302"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:42:37.164895",
+    "input_parameters": {
+      "longitude": 17.0,
+      "latitude": 17.0,
+      "housing_median_age": 17.0,
+      "total_rooms": 17.0,
+      "total_bedrooms": 17.0,
+      "population": 17.0,
+      "households": 17.0,
+      "median_income": 17.0,
+      "ocean_proximity": "NEAR BAY"
+    },
+    "predicted_price": 324422.19,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234237"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:42:15.546656",
+    "input_parameters": {
+      "longitude": 16.0,
+      "latitude": 16.0,
+      "housing_median_age": 16.0,
+      "total_rooms": 16.0,
+      "total_bedrooms": 16.0,
+      "population": 16.0,
+      "households": 16.0,
+      "median_income": 16.0,
+      "ocean_proximity": "NEAR OCEAN"
+    },
+    "predicted_price": 325982.19,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234215"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:41:24.010415",
+    "input_parameters": {
+      "longitude": 15.0,
+      "latitude": 35.0,
+      "housing_median_age": 40.0,
+      "total_rooms": 50.0,
+      "total_bedrooms": 130.0,
+      "population": 300.0,
+      "households": 126.0,
+      "median_income": 8.5,
+      "ocean_proximity": "INLAND"
+    },
+    "predicted_price": 351699.13,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234124"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:40:29.949734",
+    "input_parameters": {
+      "longitude": 13.0,
+      "latitude": 13.0,
+      "housing_median_age": 13.0,
+      "total_rooms": 14.0,
+      "total_bedrooms": 13.0,
+      "population": 13.0,
+      "households": 13.0,
+      "median_income": 13.5,
+      "ocean_proximity": "INLAND"
+    },
+    "predicted_price": 263072.07,
+    "prediction_id": "josephkagai210@gmail.com_20250610_234029"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:39:53.498828",
+    "input_parameters": {
+      "longitude": -122.23,
+      "latitude": 37.88,
+      "housing_median_age": 41.0,
+      "total_rooms": 880.0,
+      "total_bedrooms": 129.0,
+      "population": 322.0,
+      "households": 126.0,
+      "median_income": 8.3252,
+      "ocean_proximity": "<1H OCEAN"
+    },
+    "predicted_price": 387443.13,
+    "prediction_id": "josephkagai210@gmail.com_20250610_233953"
+  },
+  {
+    "user_email": "josephkagai210@gmail.com",
+    "timestamp": "2025-06-10T23:08:21.675231",
+    "input_parameters": {
+      "longitude": 12.0,
+      "latitude": 12.0,
+      "housing_median_age": 12.0,
+      "total_rooms": 12.0,
+      "total_bedrooms": 12.0,
+      "population": 12.0,
+      "households": 12.0,
+      "median_income": 12.0,
+      "ocean_proximity": "NEAR BAY"
+    },
+    "predicted_price": 306734.13,
+    "prediction_id": "josephkagai210@gmail.com_20250610_230821"
+  }
+]
